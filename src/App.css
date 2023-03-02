@@ -1,0 +1,45 @@
+.App {
+  margin-top: 50vh;
+  transform: translateY(-50%);
+}
+
+.tooltip__custom--axis {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.tooltip__custom--in {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.tooltip__custom--in span {
+  margin-left: 10px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.tooltip__custom--wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  margin-bottom: 8px;
+  font-size: 12px;
+}
+
+.tooltip__custom--wrapper div {
+  margin: 0;
+  padding: 0;
+}
+
+.tooltip__custom--span {
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
